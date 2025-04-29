@@ -8,6 +8,7 @@ Me gusta leer<br> jugar a videojuegos<br>el futsal<br> me gusta la Aeronautica <
 ![](https://github-readme-stats.vercel.app/api?username=axel2389&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=axel2389&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=axel2389&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+linkding: www.linkedin.com/in/axel-fentanes-80b295363
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=axel2389&theme=radical&no-frame=false&no-bg=true&margin-w=4)
