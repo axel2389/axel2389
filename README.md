@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**axel2389/axel2389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Me gusta leer<br> jugar a videojuegos<br>el futsal<br> me gusta la Aeronautica <br>lo digital<br>me gusta el mate <br>la musica phonk<br> funk<br>rock <br>chill<br>jazz<br>clasica<br>
 
